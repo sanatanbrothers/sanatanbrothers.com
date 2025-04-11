@@ -1,0 +1,12 @@
+# misc
+.DS_Store
+*.pem
+
+# IDE/editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
